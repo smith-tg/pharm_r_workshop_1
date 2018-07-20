@@ -15,8 +15,7 @@
 
 - Open terminal
 - Enter the following commands:
-
-sudo apt-get update
-sudo apt-get install r-base
+  -sudo apt-get update
+  -sudo apt-get install r-base
 
 
