@@ -14,7 +14,9 @@ If you'll be installing R on Windows or Mac OS X, visit [this website](https://m
 
 #### Mac OS X
 
-- If on OS X, you should see a package labeled r-3.5.1.exe (again, the specific version number may be different). Double click this file to extract the files from the downloaded package.
+- Follow the link for Mac OS X on the page.
+- Download the file labeled "R-3.5.1.pkg" (the specific version number may vary depending on when you visit the page).
+-
 
 #### Ubuntu
 
@@ -23,4 +25,5 @@ If you'll be installing R on Windows or Mac OS X, visit [this website](https://m
 - sudo apt-get update
 - sudo apt-get install r-base
 
+### 2) Install RStudio
 
