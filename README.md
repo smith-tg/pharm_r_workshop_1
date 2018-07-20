@@ -22,10 +22,11 @@ If you'll be installing R on Windows or Mac OS X, visit [this website](https://m
 
 - Open terminal
 - Enter the following commands
-'''bash
+
+```bash
 sudo apt-get update
 sudo apt-get install r-base
-'''
+```
 
 ### 2) Install RStudio
 
