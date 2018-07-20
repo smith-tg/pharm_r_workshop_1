@@ -40,3 +40,5 @@ sudo yum install -y R
 
 ### 2) Install RStudio
 
+Visit [this website](https://www.rstudio.com/products/rstudio/download/#download) and download the appropriate installer for your operating system. Installers are available for Windows 7/8/10, Mac OS X 10.6+, and several common Linux distributions.
+
