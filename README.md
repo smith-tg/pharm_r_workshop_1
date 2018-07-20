@@ -48,6 +48,7 @@ sudo yum install -y R
 #### Windows / Mac
 
 - Visit [this website](https://git-scm.com/downloads) and download the appropriate installer for your operating system.
+- Double-click the downloaded file to begin installing.
 
 #### Linux
 
@@ -61,3 +62,7 @@ git --version
 - If you receive an error it is likely that you do not have Git installed. In this case, please follow the same instructions provided for Windows / Mac users.
 - If problems persist, please see me at the beginning of the workshop and we will try to resolve the issue.
 
+### 4) Setup a GitHub Account
+
+- Visit [GitHub](www.github.com) and follow the registration instructions to set up a new account.
+- Feel free to skip this step if you have an existing GitHub account.
