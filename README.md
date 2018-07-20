@@ -18,14 +18,24 @@ If you'll be installing R on Windows or Mac OS X, visit [this website](https://m
 - Download the file labeled "R-3.5.1.pkg" (the specific version number may vary depending on when you visit the page).
 - Double click the downloaded file to begin installing.
 
-#### Ubuntu
+#### Debian / Ubuntu / Linux Mint
 
-- Open terminal
-- Enter the following commands
+- Open terminal.
+- Enter the following commands:
 
 ```bash
 sudo apt-get update
 sudo apt-get install r-base
+```
+
+#### RedHat / Fedora / CentOS
+
+- Open terminal.
+- Enter the following commands:
+
+```bash
+sudo yum update
+sudo yum install -y R
 ```
 
 ### 2) Install RStudio
