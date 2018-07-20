@@ -57,5 +57,6 @@ sudo yum install -y R
 git --version
 ```
 
-- If for some reason you do not already have Git installed, please follow the same instructions provided for Windows / Mac users.
+- If you receive an error it is likely that you do not have Git installed. In this case, please follow the same instructions provided for Windows / Mac users.
 - If problems persist, please see me at the beginning of the workshop and we will try to resolve the issue.
+
