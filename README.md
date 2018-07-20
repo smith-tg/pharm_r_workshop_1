@@ -51,7 +51,8 @@ sudo yum install -y R
 
 #### Linux
 
-- Linux users should already have a working Git installation. This can be tested by running the following command:
+- Linux users should already have a working Git installation.
+- This can be tested by running the following command in a terminal window:
 
 ```bash
 git --version
