@@ -66,3 +66,8 @@ git --version
 
 - Visit [GitHub](www.github.com) and follow the registration instructions to set up a new account.
 - Feel free to skip this step if you have an existing GitHub account.
+
+### 5) Configure SSH Access on GitHub
+
+- This step will allow you to connect to your GitHub repositories from your computer without entering a password everytime.
+- While this step is optional it will make your life, and participation in the workshop, substantially easier.
