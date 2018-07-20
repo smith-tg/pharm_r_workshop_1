@@ -4,18 +4,23 @@
 
 ### 1) Install R
 
-#### Windows / Mac OS X
+If you'll be installing R on Windows or Mac OS X, visit [this website](https://mirror.its.sfu.ca/mirror/CRAN/).
 
-- Visit: https://mirror.its.sfu.ca/mirror/CRAN/
-- Download the appropriate R files for your operating system
-- Double click the downloaded package to extract the files
-- Double click extracted file to begin installation
+#### Windows
+
+- Follow the link for Windows on the page and click the link labeled "Install R for the first time."
+- Download the file labeled "R-3.5.1.exe" (the specific version number may vary depending on when you visit the page).
+- Double click on the downloaded file to begin installing.
+
+#### Mac OS X
+
+- If on OS X, you should see a package labeled r-3.5.1.exe (again, the specific version number may be different). Double click this file to extract the files from the downloaded package.
 
 #### Ubuntu
 
 - Open terminal
 - Enter the following commands
-&nbsp;&nbsp;&nbsp;&nbsp; - sudo apt-get update
-&nbsp;&nbsp;&nbsp;&nbsp; - sudo apt-get install r-base
+- sudo apt-get update
+- sudo apt-get install r-base
 
 
