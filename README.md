@@ -68,3 +68,15 @@ git --version
 
 - Visit [GitHub](www.github.com) and follow the registration instructions to set up a new account.
 - Feel free to skip this step if you have an existing GitHub account.
+
+### 4) Install a suitable text editor. (Optional)
+
+- The text editors included with most operating systems tend to be powerful but hard to use. For this reason, I would strongly recommend installing a more modern text editor such as one of the options listed below. This is optional, however it will make working with text files considerably easier.
+
+#### Windows
+
+- [Notepad++](https://notepad-plus-plus.org/download/v7.5.8.html)
+
+#### Windows / Mac OS X / Linux
+
+- [Sublime Text](https://www.sublimetext.com/)
