@@ -79,7 +79,7 @@ git --version
 install.packages("tidyverse")
 ```
 
-- Upon completion of the library installation you should receive a message which reads "The downloaded binary packages are in..." followed by a path to the directory where the library was stored.
+- Upon completion of the library installation you should receive a message which reads "The downloaded binary packages are in[...]" followed by a path to the directory where the library was stored.
 - Feel free to let me know at the beginning of the workshop if you ran into any problems during this step.
 
 ### 5) Setup a GitHub Account
