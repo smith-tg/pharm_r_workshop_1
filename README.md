@@ -45,6 +45,8 @@ sudo yum install -y R
 
 ### 3) Install Git
 
+- Installing Git before the workshop will help keep us on track, however don't sweat it if you run into trouble during this step. We'll be spending a bit of time configuring Git to work with RStudio anyway. The most important thing here is to download the installation files beforehand to avoid having several users on the same network downloading at once.
+
 #### Windows / Mac
 
 - Visit [this website](https://git-scm.com/downloads) and download the appropriate installer for your operating system.
@@ -66,8 +68,3 @@ git --version
 
 - Visit [GitHub](www.github.com) and follow the registration instructions to set up a new account.
 - Feel free to skip this step if you have an existing GitHub account.
-
-### 5) Configure SSH Access on GitHub
-
-- This step will allow you to connect to your GitHub repositories from your computer without entering a password everytime.
-- While this step is optional it will make your life, and participation in the workshop, substantially easier.
