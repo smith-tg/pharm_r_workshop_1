@@ -64,12 +64,30 @@ git --version
 - If you receive an error it is likely that you do not have Git installed. In this case, please follow the same instructions provided for Windows / Mac users.
 - If problems persist, please see me at the beginning of the workshop and we will try to resolve the issue.
 
-### 4) Setup a GitHub Account
+### 4) Install Tidyverse
+
+- Tidyverse is a collection of R packages which provide a great deal of utility when working with data. We'll go deeper into the details of this collection during the workshop, so it will be very helpful if you have it installed before you come.
+- R libraries are installed from the command line, and you can complete this step in either the R console or RStudio (both of which you should already have installed). I would suggest completing this step using RStudio, as the interface is a bit easier to work with particularly if you are not experienced with command line tools.
+
+#### Using RStudio
+
+- Open RStudio and navigate to the "console" tab of the interface. This should appear toward the lefthand side of your display by default.
+- Click just to the right of the ">" visible in the console tab. This will allow you to write type in a new command. You should see a blinking text cursor ("|") if you've completed this step correctly.
+- Type in the following command and hit enter to execute:
+
+```r
+install.packages("tidyverse")
+```
+
+- Upon completion of the library installation you should receive a message which reads "The downloaded binary packages are in..." followed by a path to the directory where the library was stored.
+- Feel free to let me know at the beginning of the workshop if you ran into any problems during this step.
+
+### 5) Setup a GitHub Account
 
 - Visit [GitHub](www.github.com) and follow the registration instructions to set up a new account.
 - Feel free to skip this step if you have an existing GitHub account.
 
-### 5) Install a Suitable Text Editor (Optional)
+### 6) Install a Suitable Text Editor (Optional)
 
 - The text editors included with most operating systems tend to be powerful but hard to use. For this reason, I would strongly recommend installing a more modern text editor such as one of the options listed below. This is optional, however it will make working with text files considerably easier.
 
